@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ドラマチックじゃなくても",
+  "base_artist": "花澤香菜",
+  "createdAt": "2026-03-25T17:51:08.782088Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドラマチックじゃなくても",
+      "artist": "Kana Hanazawa",
+      "has_synced": true,
+      "path": "select/01_ドラマチックじゃなくても_Kana_Hanazawa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドラマチックじゃなくても - TV Size Ver.",
+      "artist": "Kana Hanazawa",
+      "has_synced": false,
+      "path": "select/02_ドラマチックじゃなくても_-_TV_Size_Ver._Kana_Hanazawa.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドラマチックじゃなくても (TV Size Ver.)",
+      "artist": "Kana Hanazawa",
+      "has_synced": false,
+      "path": "select/03_ドラマチックじゃなくても_(TV_Size_Ver.)_Kana_Hanazawa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドラマチックじゃなくても",
+      "artist": "花澤香菜",
+      "has_synced": false,
+      "path": "select/pl_01_ドラマチックじゃなくても_花澤香菜.txt"
+    }
+  ]
+}
